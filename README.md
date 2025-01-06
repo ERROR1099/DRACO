@@ -13,7 +13,6 @@
    and Cybersecurity Orchestrator
 ```
 
-Alternative Dragon Art 1:
 ```
          /\___/\
         (  o o  )
@@ -26,7 +25,7 @@ Alternative Dragon Art 1:
    🛡️ Cybersecurity Evolved
 ```
 
-Alternative Dragon Art 2:
+
 ```
        _,_     _,_
    \`-._,-`-._,-`-._,-`-._,-`
