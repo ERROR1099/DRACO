@@ -1,0 +1,37 @@
+# Advanced Machine Learning Dependencies
+tensorflow>=2.6.0
+scikit-learn>=0.24.2
+keras>=2.6.0
+
+# Advanced Network Analysis
+scapy>=2.4.5
+python-nmap>=0.6.1
+
+# Threat Intelligence
+shodan>=1.25.0
+censys>=2.0.9
+
+# Visualization
+plotly>=5.3.1
+matplotlib>=3.4.3
+seaborn>=0.11.2
+
+# Cryptography and Security
+cryptography>=3.4.8
+pynacl>=1.4.0
+
+# Performance Profiling
+memory_profiler>=0.58.0
+
+# Web Scraping and Analysis
+beautifulsoup4>=4.10.0
+selenium>=4.0.0
+
+# Logging and Monitoring
+rich>=10.12.0
+colorama>=0.4.4
+
+# Development and Testing
+pytest>=6.2.5
+mypy>=0.910
+black>=21.9b0
